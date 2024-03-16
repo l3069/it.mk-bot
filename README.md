@@ -38,7 +38,6 @@ python itbot.py
 ![Screenshot](1.png)
 ![Screenshot](2.png)
 ![Screenshot](3.png)
-![Screenshot](4.png)
 
 ### Автор
 Автор на овој проект е: Леонид Крстевски

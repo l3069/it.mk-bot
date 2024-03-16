@@ -1,3 +1,9 @@
+# Author: Leonid Krstevski
+
+# Warning: This project is not intended for any cyber disruption or illegal purposes. The author is not responsible for any misuse of this code.
+
+# Опомена: Овој проект не е наменет за било какви сајбер нарушувања или незаконски цели. Авторот не носи одговорност за било каква злоупотреба на овој код.
+
 import random
 import string
 import multiprocessing
@@ -100,3 +106,9 @@ author_label = tk.Label(root, text="Автор: Леонид Крстевски"
 author_label.pack(side="bottom")
 
 root.mainloop()
+
+# Author: Leonid Krstevski
+
+# Warning: This project is not intended for any cyber disruption or illegal purposes. The author is not responsible for any misuse of this code.
+
+# Опомена: Овој проект не е наменет за било какви сајбер нарушувања или незаконски цели. Авторот не носи одговорност за било каква злоупотреба на овој код.

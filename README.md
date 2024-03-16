@@ -18,7 +18,8 @@ git clone https://github.com/l3069/it.mk-bot.git
 # Код инсталации:
 
 ```shell
-pip install selenium tkinter
+pip install selenium
+pip install tkinter
 ```
 
 1. Стартувајте ја апликацијата: започнете ја скриптата itbot.py користејќи Python:

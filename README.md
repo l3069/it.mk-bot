@@ -13,14 +13,17 @@ git clone https://github.com/your-username/registration-application.git
 - Selenium
 - Tkinter
 
-``` shell
+
 # Код инсталации:
+
+```shell
 pip install selenium tkinter
+```
 
 Стартувајте ја апликацијата: започнете ја скриптата itbot.py користејќи Python:
-
+```
 python itbot.py
-
+```
 Внесете го бројот на сметки за генерирање: внесете го саканиот број на сметки за генерирање во полето "Број на генерирани сметки:"
 
 Кликнете Започни!: Кликнете на копчето „Започни!“ за да го започнете процесот на ботот.
@@ -31,8 +34,8 @@ python itbot.py
 
 Барања
 Python 3.x
-Селен
-Ткинтер
+Selenium
+Tkinter
 
 ### Важно!
 
